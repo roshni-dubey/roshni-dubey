@@ -51,3 +51,4 @@ To develop strong software engineering fundamentals, contribute to meaningful pr
 ## Connect
 
 - **GitHub:** [roshni-dubey](https://github.com/roshni-dubey)
+- **Linkdin:** https://www.linkedin.com/in/roshni-dubey-04479937a/?isSelfProfile=true
